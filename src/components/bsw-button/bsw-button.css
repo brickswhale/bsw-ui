@@ -1,0 +1,52 @@
+:host {
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.button {
+  --button-background-color: var(--palette-color2);
+  background-color: var(--button-background-color);
+  color: var(--button-color);
+  /* color: #fff; */
+  padding: 12px 24px;
+  border-radius: 4px;
+  outline: none;
+  font-size: 1em;
+  border-color: transparent;
+  font-weight: 500;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+
+.bsw-button {
+
+}
+
+.bsw-button-primary {
+  /* color */
+  background-color: aliceblue;
+  color: aquamarine;
+  border-color: aqua;
+
+  /* border size */
+  border-radius: 3px;
+  border-width: 1px;
+
+  /* button size/spacing */
+  padding: 12px 24px;
+
+  /* shadow */
+  box-shadow: none;
+
+  /* font */
+  font-size: 1em;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.bsw-button-secondary {
+  
+}
+
+.bsw-button-secondary {
+  
+}

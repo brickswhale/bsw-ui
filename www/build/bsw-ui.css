@@ -1,0 +1,51 @@
+:root {
+
+  /* Color */
+  --color-white: #FFFFFF;
+  --color-black: #262626; /* 85% of #000000 black */
+  --color-grey: #CCCCCC;
+
+  --color-white-opacity: rgba(255,255,255,0.4);
+  --color-black-opacity: rgba(0,0,0,0.4);
+
+  --color-dynamic: #000000;
+
+  --palette-color1: #F6F6F6; /* Light shades: Use this color as the background for your dark-on-light designs, or the text color of an inverted design. */
+  --palette-color2: #D2B659; /* Light accent: Accent colors can be used to bring attention to design elements by contrasting with the rest of the palette. */
+  --palette-color3: #73BCE6; /* Main brand color: This color should be eye-catching but not harsh. It can be liberally applied to your layout as its main identity. */
+  --palette-color4: #73708C; /* Dark accent: Another accent color to consider. Not all colors have to be used - sometimes a simple color scheme works best. */
+  --palette-color5: #3B73B4; /* Dark shades: Use as the text color for dark-on-light designs, or as the background for inverted designs. */
+
+  --palette-color1-plus: #beb3b3; /* Darker color 1*/
+  --palette-color5-plus: #2f4862; /* Darker color 5*/
+
+  /* color opacity 60% */
+  --color-dynamic60: #00000099;
+
+  --palette-color160: #f9f8f899;
+  --palette-color260: #8d8e9999;
+  --palette-color360: #d2e68499;
+  --palette-color460: #ae525099;
+  --palette-color560: #40618499;
+
+
+
+
+  /* Typography */
+  --font-size-1: 1rem;
+  --font-family1: 'Montserrat', sans-serif;
+  --font-family2: 'Open Sans', sans-serif;
+  --font-family3: 'Lobster', cursive;
+
+  /* Sizing and spacing */
+
+
+
+  /* border */
+
+
+  /* shadow */
+  --shadow-style: '';
+  --shadow-depth: '';
+}
+
